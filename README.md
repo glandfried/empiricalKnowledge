@@ -1,6 +1,6 @@
-## Empirical knowledge is life:
+# Empirical knowledge is life
 
-### The pragmatic reason for the reciprocal coexistence of diversities
+## The reason for the reciprocal coexistence of diversities
 
 I am a social anthropologist finishing a PhD in computer science. 
 The best I have found in computer science is the method for computing honest beliefs that guarantee intersubjective agreements (known as Bayesian inference), its isomorphism with evolutionary theory, and the real advantage that cooperation has in both systems.
