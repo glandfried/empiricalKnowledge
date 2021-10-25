@@ -1,10 +1,7 @@
 # Empirical knowledge is life
 
-## The reason for the reciprocal coexistence of diversities
+## The reciprocal coexistence of diversities
 
-I am a social anthropologist finishing a PhD in computer science. 
-The best I have found in computer science is the method for computing honest beliefs that guarantee intersubjective agreements (known as Bayesian inference), its isomorphism with evolutionary theory, and the real advantage that cooperation has in both systems.
-This argument is not only theoretical, it is pragmatic: its breakdown has consequences even for those who seek individual advantage.
 The current massive loss of biodiversity was preceded by a massive loss of cultural diversity.
 Despite all the advances, metropolitan science was not able to compensate for the loss of millenarian knowledge caused by colonial-modernity.
 Evolution, like Bayesian inference, needs diversity to function properly.
@@ -13,7 +10,8 @@ Because, in short, empirical knowledge is life.
 
 ---
 
-In evolutionary theory everyone is taught the fact that lineage growth is a multiplicative and noisy process: a sequence of survival and reproductive probabilities.
+In the last third of the history of the Universe, a form of organization of matter capable of self-replication appeared on Earth.
+The growth of these lineages followed multiplicative and noisy processes: a sequence of survival and reproductive probabilities.
 In it, the impacts of losses are often stronger than those of gains, if there is even one zero in the sequence, we are extinct.
 Because variance reduction is really important, cooperation has a fundamental evolutionary advantage.
 This caused life to acquire an extraordinary complexity throughout its history.
