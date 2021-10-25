@@ -8,7 +8,7 @@ This argument is not only theoretical, it is pragmatic: its breakdown has conseq
 The current massive loss of biodiversity was preceded by a massive loss of cultural diversity.
 Despite all the advances, metropolitan science was not able to compensate for the loss of millenarian knowledge caused by colonial-modernity.
 Evolution, like Bayesian inference, needs diversity to function properly.
-Long-term coexistence with ecological systems implies recovering the coexistence between autonomous indigenous communities.
+Long-term coexistence with ecological systems implies recovering the reciprocal coexistence between autonomous indigenous communities.
 Because, in short, empirical knowledge is life.
 
 ---
